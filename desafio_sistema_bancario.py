@@ -62,7 +62,7 @@ while True:
         print(" * * * * * * * * * * * * * * * * * * * * ")
 
     elif opcao == "0":
-        print("Obrigado por utilizar o nosso sistema!\nTenha um ótimo dia!\n")
+        print("Obrigado por utilizar o nosso sistema bancário!\nTenha um ótimo dia!\n")
         break
 
     else:
